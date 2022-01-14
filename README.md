@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rociogo2002 
-- 👀 I’m interested in create awsome things
-- 🌱 I’m currently learning javascript y node.js
-- 💞️ I’m looking to collaborate on desafiate proyects
+- 👀 I'm a frontend developer who wants to grow doing challenging projects 
+- 🌱 I’m currently learning javascript,React and NODE.js
+- 💞️ I’m looking to collaborate and grow
 
 
 <!---
